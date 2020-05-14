@@ -38,6 +38,10 @@ $ python3 scraper.py
 
 $ python3 smsbot.py members.csv
 
+دیستور بالا مال اینه که به همه دعوتنامه بفرسته ولی این دیتور برای اینه که خودکار ممبرارو کپی کنه رو گروه شما
+
+$ python3 add2group.py members.csv
+
 برای آپدیت این اسکریپت
 
 python3 setup.py -u
