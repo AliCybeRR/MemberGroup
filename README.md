@@ -38,6 +38,11 @@ $ python3 scraper.py
 
 $ python3 smsbot.py members.csv
 
+برای آپدیت این اسکریپت
+
+python3 setup.py -u
+
+
  حالا این دستور میزنید 
  و بقیشم که معلومه 
  اگه نفهمیدین یه پی ام بهم بدین تو تلگرام 
