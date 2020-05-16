@@ -2,7 +2,8 @@
 
 خب ابتدا باس 
 این ابزارو نصب کنید 
-
+$ apt update
+$ apt upgrade -y
 $ pkg install -y git python
 
 و بعد هم ابزار منو کلون کنید
@@ -26,6 +27,7 @@ $ python3 setup.py -i
 $ python3 setup.py -c
 
 اینجا از شما 3 تا چیز میخاد یکی api و api hash و شماره شما
+اینجا نباید اکانتتون تایید دومرحله داشته باشه
 
 و بعد هم این دستور
 
