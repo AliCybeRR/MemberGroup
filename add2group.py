@@ -22,7 +22,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             version : 3.0
-        By AliCybeRT
+        By AliCybeRR
         """)
 
 cpass = configparser.RawConfigParser()
